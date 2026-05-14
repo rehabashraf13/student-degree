@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+numpy
+google-generativeai
+python-dotenv
+streamlit-option-menu
+streamlit-extras
+scikit-learn
+openpyxl
