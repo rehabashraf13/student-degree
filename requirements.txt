@@ -8,3 +8,4 @@ streamlit-option-menu
 streamlit-extras
 scikit-learn
 openpyxl
+groq
